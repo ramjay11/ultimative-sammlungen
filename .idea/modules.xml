@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ultimate-jpa-ruhezustand/ultimate-jpa-ruhezustand.iml" filepath="$PROJECT_DIR$/ultimate-jpa-ruhezustand/ultimate-jpa-ruhezustand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimativ-fruhlingsstiefel/ultimativ-fruhlingsstiefel.iml" filepath="$PROJECT_DIR$/ultimativ-fruhlingsstiefel/ultimativ-fruhlingsstiefel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ultimative-sammlungen.iml" filepath="$PROJECT_DIR$/.idea/ultimative-sammlungen.iml" />
+    </modules>
+  </component>
+</project>
